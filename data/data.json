@@ -1,0 +1,22 @@
+{
+    "results":[
+        {
+            "id": 1,
+            "brand": "Lenovo",
+            "serialNumber": "043LEN6892",
+            "userName": "@Admin_304"
+        },
+        {
+            "id": 2,
+            "brand": "Dell",
+            "serialNumber": "710DEL0831",
+            "userName": "@Admin_071"
+        },
+        {
+            "id": 3,
+            "brand": "Samsung",
+            "serialNumber": "287SAM9344",
+            "userName": "@Admin_728"
+        }
+    ]
+}
